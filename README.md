@@ -5,7 +5,7 @@ Updating Sites Accessibility Requirements
 I streamlined existing code to help make Horiseon's site more accessible for Search Engine Optimization.
 
 ## Action Steps
-- First i viewed the source code to find semantic elements.
+- First I viewed the source code to find semantic elements.
 - Then I replaced exisitng div elements with appropriate semantic elements throughout the code.
 - Then I viewed the structue of the HTML elements to insure they follow a logical structure independent of styling and positioning.
 - Then I viewed image elements and added alt attributes.
