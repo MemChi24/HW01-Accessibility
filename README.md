@@ -26,4 +26,4 @@ I streamlined existing code to help make Horiseon's site more accessible for Sea
    https://memchi24.github.io/HW01-Horiseon-Streamlining-Accessibility/
 
  ## Screenshot
- ![Alt text](image-1.png)
+![Alt text](image.png)
