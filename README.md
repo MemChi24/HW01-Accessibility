@@ -1,5 +1,5 @@
-# HW01-Horiseon-Streamlining-Accessibility
-Updating Sites Accessibility Requirements
+# Horiseon
+
 
 ## Description
 I streamlined existing code to help make Horiseon's site more accessible for Search Engine Optimization.
